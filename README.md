@@ -12,19 +12,24 @@ Program dirancang sesuai konsep modular programming dan menggunakan pendekatan y
 
 ## Fitur Utama
 - Menu interaktif berbasis ASCII
-- Input tanpa ENTER menggunakan getch()
-- Deteksi tombol ESC untuk mengakhiri program
+- Input tanpa ENTER menggunakan `getch()`
+- Deteksi tombol `ESC` untuk mengakhiri program
 - Setiap menu berada di file .c terpisah
 - Setelah program selesai:
-  - Tekan ENTER → kembali ke menu
-  - Tekan ESC → program berhenti
+  - Tekan `ENTER` → kembali ke menu
+  - Tekan `ESC` → program berhenti
 
 ## Download File
-Untuk download di GitHub klik file yang ingin di Download, klik titik tiga disebelah kanan dan klik tombol download atau CTRL+SHIFT+S (shortcut download).
+Untuk download di GitHub klik file yang ingin di Download, klik titik tiga disebelah kanan dan klik tombol download atau <code>CTRL+SHIFT+S</code> (shortcut download).
 Jika mendownload semua file klik Code (Tombol berwana hijau) setelah itu Download ZIP.
 
-Anda dapat menjalankan program dengan hanya mendownload "menu.exe" tanpa mendownload semuanya.
+Anda dapat menjalankan program dengan hanya mendownload `menu.exe` tanpa mendownload semuanya.
 Bila Windows defender muncul, klik "More info" agar dapat menjalankan Program.
 
 ## Compile
-Untuk melakukan compile gunakan bash gcc "gcc main.c program\perulangan.c program\kondisi.c program\array.c -o menu" dan untuk menjalankan program gunakan "./main.exe" pada terminal/powershell.
+Untuk melakukan compile gunakan bash <code>gcc main.c program\perulangan.c program\kondisi.c program\array.c -o menu</code> dan untuk menjalankan program gunakan <code>./main.exe</code> pada terminal/powershell.
+
+## Catatan Penting
+- Program menggunakan library `conio.h` sehingga direkomendasikan dijalankan di Windows
+- Untuk Linux atau macOS diperlukan pendekatan lain (misalnya termios)
+- File menu.exe disertakan sebagai hasil kompilasi, bukan sumber utama
