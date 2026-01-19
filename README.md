@@ -7,5 +7,6 @@ Kelompok 1
 - John Roni Anugrah Sijabat  (10124619)
 
 Anda dapat menjalankan program dengan hanya mendownload "menu.exe" tanpa mendownload semuanya.
+Bila Windows defender muncul, klik "More info" agar dapat menjalankan Program.
 
 Untuk melakukan compile gunakan bash gcc "main.c perulangan.c kondisi.c array.c -o menu" dan untuk menjalankan program gunakan "./main.exe" pada terminal/powershell.
