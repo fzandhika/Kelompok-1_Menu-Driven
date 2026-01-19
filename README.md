@@ -6,6 +6,9 @@ Kelompok 1
 - Raphael Eldon Sumual (11124171)
 - John Roni Anugrah Sijabat  (10124619)
 
+Untuk download di GitHub klik file yang ingin di Download, klik titik tiga dsebelah kanan dan klik tombol download atau CTRL+SHIFT+S.
+Jika mendownload semua file klik Code (Tombol berwana hijau) setelah itu Download ZIP.
+
 Anda dapat menjalankan program dengan hanya mendownload "menu.exe" tanpa mendownload semuanya.
 Bila Windows defender muncul, klik "More info" agar dapat menjalankan Program.
 
