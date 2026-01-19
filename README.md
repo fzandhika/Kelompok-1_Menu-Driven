@@ -27,7 +27,7 @@ Anda dapat menjalankan program dengan hanya mendownload `menu.exe` tanpa mendown
 Bila Windows defender muncul, klik "More info" agar dapat menjalankan Program.
 
 ## Compile
-Untuk melakukan compile gunakan bash <code>gcc main.c program\perulangan.c program\kondisi.c program\array.c -o menu</code> dan untuk menjalankan program gunakan <code>./main.exe</code> pada terminal/powershell.
+Untuk melakukan compile gunakan bash <code>gcc main.c program\perulangan.c program\kondisi.c program\array.c -o menu</code> dan untuk menjalankan program gunakan <code>./menu.exe</code> pada terminal/powershell.
 
 ## Catatan Penting
 - Program menggunakan library `conio.h` sehingga direkomendasikan dijalankan di Windows
